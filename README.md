@@ -1,2 +1,2 @@
 # PLC
-PLC program that receives data from MES and controls Shop Floor Simulator
+PLC program on Codesys that receives data from MES and controls Shop Floor Simulator.
